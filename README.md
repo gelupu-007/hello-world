@@ -1,2 +1,2 @@
 # hello-world
-My First Repository
+My First Repository. I want to Learn Git for doing Projects.
